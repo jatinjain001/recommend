@@ -1,0 +1,18 @@
+.heading{
+    text-align: center;
+    margin-top: 10rem;
+}
+.category{
+    margin-left: 19rem;
+}
+.category_card{
+    margin: 1rem;
+}
+.category_img{
+    width: 15rem;
+    height: 15rem;
+    margin: 2rem 4rem;
+}
+.category_title{
+    text-align: center;
+}
